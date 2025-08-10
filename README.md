@@ -12,5 +12,6 @@ Projektet implementerar en simulerad kassa- och lagerhantering för en musikbuti
 * **Designmönster:** Klassdiagrammet fungerar som en ritning för projektets struktur och visar hur de olika klasserna relaterar till varandra.
 
 ![Klassdiagram](C:\Users\hp\Documents\GitHub\Classdiagram-implementation\src\Classdiagram.png)
+![Klassdiagram](src/ClassDiagram.png)
 
 Denna kodbas fungerar som ett "proof-of-concept" för ett enklare affärssystem och belyser hur OOP-principer kan användas för att skapa en strukturerad och utbyggbar lösning.

@@ -11,6 +11,6 @@ Projektet implementerar en simulerad kassa- och lagerhantering för en musikbuti
 * **Gränssnitt (Interfaces):** Projektet utnyttjar gränssnitt för att definiera gemensamma beteenden, vilket säkerställer att olika objekt kan interagera på ett enhetligt sätt.
 * **Designmönster:** Klassdiagrammet fungerar som en ritning för projektets struktur och visar hur de olika klasserna relaterar till varandra.
 
-![Klassdiagram](src/ClassDiagram.png)
+![Klassdiagram](src\ClassDiagram.png)
 
 Denna kodbas fungerar som ett "proof-of-concept" för ett enklare affärssystem och belyser hur OOP-principer kan användas för att skapa en strukturerad och utbyggbar lösning.
